@@ -1,0 +1,8 @@
+pure-python-adb
+scikit-learn
+numpy
+tkinter
+xlwt
+pytesseract
+opencv-python
+keyboard
